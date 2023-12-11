@@ -1,6 +1,6 @@
 # Industry_Specific_Chatbot
 
-Thulani is a training chatbot also known as "Dr Thulani", it is able to interact with the user. Chatterbot and python are what it is coded from. It uses the Natural Languague Toolkit to analyse data. This is a chatbot that is focused on health regarding COVID-19
+Thulani is a training chatbot also known as "Dr Thulani", it is able to interact with the user. Chatterbot and python are what it is coded from. It uses the Natural Languague Toolkit to analyse data. This is a chatbot that is focused on health especially regarding information on COVID-19. Thulani is still on it's early developments and this is it's first release. 
 
 To run the script, 
 - python healthbot.py
